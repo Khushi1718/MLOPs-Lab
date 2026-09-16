@@ -1,7 +1,4 @@
-# SCSE3040 --- Lab Practicals
-
-**Machine Learning Operations · B.Tech CSE 5th Semester · Bennett University
-· Session 2026-27**
+#MlOps Practices
 
 Thirteen practicals, one per fortnight, all building the same running project:
 a **food delivery-time predictor**. Each one picks up exactly where the last
@@ -70,14 +67,4 @@ run the cells in order from the top.
 If everything goes wrong: **Kernel -> Restart Kernel and Clear All Outputs**,
 then start again from the first cell. Nothing is damaged by doing this.
 
-Contact Person:
 
-Dr. Gaurav Tripathi 
-
-Assistant Professor - SCSET
-
-Bennett University
-
-Email <mailto:gaurav.tripathi@bennett.edu.in>
-
-LinkedIn <https://www.linkedin.com/in/gauravt50/>
