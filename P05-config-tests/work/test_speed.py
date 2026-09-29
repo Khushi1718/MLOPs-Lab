@@ -1,5 +1,3 @@
-"My own tests for minutes_per_km."
-
 import pytest
 
 from orders import minutes_per_km
